@@ -1,0 +1,22 @@
+{
+    "q1": {
+        "question": "What is the capital of France?",
+        "answers": "Paris"
+    },
+    "q2": {
+        "question": "What is the largest planet in our solar system?",
+        "answers": "Jupiter"
+    },
+    "q3": {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "answers": "Harper Lee"
+    },
+    "q4": {
+        "question": "What is the chemical symbol for gold?",
+        "answers": "Au"
+    },
+    "q5": {
+        "question": "Who painted the Mona Lisa?",
+        "answers": "Leonardo da Vinci"
+    }
+}
